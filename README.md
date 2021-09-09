@@ -33,11 +33,11 @@ It is available from http://academic.macewan.ca/furzem/files/2011/10/Dyke-2004.p
 
 ### Notes
 * While all of the GIS files are called "ice...", they really contain:
-** (Original projected) Ice, modern ocean, modern continent, lakes
-** (WGS84 unprojected by A. Wickert) Ice, lakes
+  * (Original projected) Ice, modern ocean, modern continent, lakes
+  * (WGS84 unprojected by A. Wickert) Ice, lakes
 * The unprojected versions seem to be good, but have not been extensively tested; please alert A. Wickert if there is a problem with them, as he would be to blame!
 * The GIS maps created by Dyke et al. (2003) are *not* topologically correct. That is, there are some tiny gaps and overlaps between the ice and the lakes. *If anyone would like to correct these such that these lines are snapped onto each other, please do and let me know!*
-* There is an ongoing project called MOCA that should lead to an update of these maps, eventually: http://www.physics.mun.ca/~lev/MOCA.html
+* There is an ongoing project called [MOCA](http://www.physics.mun.ca/~lev/MOCA.html) that should lead to an update of these maps, eventually. Oh hey, now it has! Check out [**Dalton et al. (2020)**](https://www.sciencedirect.com/science/article/abs/pii/S0277379119307619)!
 * Send a message if these are useful to you!
 
 ### Copyright
